@@ -1,14 +1,18 @@
 # My Repositories 
 
 ## Licence
-* [Colossal Castle Adventure](https://github.com/antoine-white/Colossal-Castle-Adventure)
-* [Deamon Linux](https://github.com/antoine-white/deamon-c-l3)
-* [Bureau d'étude L3](https://github.com/antoine-white/BE-L3)
-* [Fourmillière L3](https://github.com/antoine-white/IHM-project)
-
+* [Colossal Castle Adventure](https://github.com/antoine-white/Colossal-Castle-Adventure) (java)
+* [Deamon Linux](https://github.com/antoine-white/deamon-c-l3) (c linux)
+* [Bureau d'étude L3](https://github.com/antoine-white/BE-L3) (python opencv)
+* [Fourmillière L3](https://github.com/antoine-white/IHM-project) (java swing)
+* 
 
 ## Master
-
+* [Labyrinth solver](https://github.com/antoine-white/projet_coo_m1) (c++ 11)
+* [OBJ Parser](https://github.com/antoine-white/OBJ-parser) (c++ flex/bison)
+*
+*
+*
 
 <!--
 **antoine-white/antoine-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
