@@ -1,10 +1,10 @@
 # My Repositories 
 
 ## Licence
-[Colossal Castle Adventure](https://github.com/antoine-white/Colossal-Castle-Adventure)
-[Deamon Linux](https://github.com/antoine-white/deamon-c-l3)
-[Bureau d'étude L3](https://github.com/antoine-white/BE-L3)
-[Fourmillière L3](https://github.com/antoine-white/IHM-project)
+* [Colossal Castle Adventure](https://github.com/antoine-white/Colossal-Castle-Adventure)
+* [Deamon Linux](https://github.com/antoine-white/deamon-c-l3)
+* [Bureau d'étude L3](https://github.com/antoine-white/BE-L3)
+* [Fourmillière L3](https://github.com/antoine-white/IHM-project)
 
 
 ## Master
