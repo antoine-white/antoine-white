@@ -5,7 +5,7 @@
 * [Deamon Linux](https://github.com/antoine-white/deamon-c-l3) (c linux)
 * [Bureau d'étude L3](https://github.com/antoine-white/BE-L3) (python opencv)
 * [Fourmillière L3](https://github.com/antoine-white/IHM-project) (java swing)
-* 
+* [Mini ML type checker](https://github.com/antoine-white/mini-ml-type-checker) (ocaml) 
 
 ## Master
 * [Labyrinth solver](https://github.com/antoine-white/projet_coo_m1) (c++ 11)
