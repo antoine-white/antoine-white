@@ -17,7 +17,7 @@
 ## others
 * [pokemon stats](https://github.com/antoine-white/pokemon-stats) (java android)
 * [small programming language](https://github.com/antoine-white/my-programming-langage) (c++ flex/bison)
-
+* [help for L2 in c](https://github.com/antoine-white/C-help-L2) (c)
 
 <!--
 **antoine-white/antoine-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
