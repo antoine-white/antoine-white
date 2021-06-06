@@ -13,6 +13,9 @@
 * [proof assistant](https://github.com/antoine-white/proof-assistant) (ocaml)
 * [java ray tracer](https://github.com/antoine-white/java-ray-tracer) (java)
 * [bills-manager](https://github.com/antoine-white/java-ray-tracer) (java android)
+* project web AAW
+  * [client](https://github.com/antoine-white/bz-client) (react typescript)
+  * [server](https://github.com/antoine-white/bz-server) (java spring boot)
 
 ## others
 * [pokemon stats](https://github.com/antoine-white/pokemon-stats) (java android)
