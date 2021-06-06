@@ -8,11 +8,16 @@
 * [Mini ML type checker](https://github.com/antoine-white/mini-ml-type-checker) (ocaml) 
 
 ## Master
-* [Labyrinth solver](https://github.com/antoine-white/projet_coo_m1) (c++ 11)
+* [Labyrinth solver](https://github.com/antoine-white/cpp_maze) (c++ 11)
 * [OBJ Parser](https://github.com/antoine-white/OBJ-parser) (c++ flex/bison)
-*
-*
-*
+* [proof assistant](https://github.com/antoine-white/proof-assistant) (ocaml)
+* [java ray tracer](https://github.com/antoine-white/java-ray-tracer) (java)
+* [bills-manager](https://github.com/antoine-white/java-ray-tracer) (java android)
+
+## others
+* [pokemon stats](https://github.com/antoine-white/pokemon-stats) (java android)
+* [small programming language](https://github.com/antoine-white/my-programming-langage) (c++ flex/bison)
+
 
 <!--
 **antoine-white/antoine-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
